@@ -1,1 +1,1 @@
-#SANTOS_FC
+site desenvolvido nas aulas de pensamento computacional
